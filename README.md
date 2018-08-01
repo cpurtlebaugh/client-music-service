@@ -1,4 +1,4 @@
-Creating a client to consume lambda-music-service data. Utilizing this to implement / learn about redux
+Creating a client to consume [lambda-music-service data](https://github.com/cpurtlebaugh/lambda-music-service). Utilizing this as a chance to implement / learn redux.
 
 - [Getting Started - Redux](https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f)
 - [Setting Up Redux w/ Create-React-App](https://medium.com/backticks-tildes/setting-up-a-redux-project-with-create-react-app-e363ab2329b8)
